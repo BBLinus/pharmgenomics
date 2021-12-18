@@ -1,0 +1,43 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1449144352	3	rs7588746		lithium	Efficacy	Bipolar Disorder	false
+982031308	3	rs4532	DRD1	lithium	Efficacy	Bipolar Disorder	false
+1449144292	3	rs324899		lithium	Efficacy	Bipolar Disorder	false
+982031374	3	rs2314339	NR1D1; THRA	lithium	Efficacy	Bipolar Disorder	false
+1449144358	3	rs3919583		lithium	Efficacy	Bipolar Disorder	false
+1444709147	4	rs1387923	NTRK2	lithium	Efficacy	Bipolar Disorder	false
+1447813708	3	rs78015114		lithium	Efficacy	Bipolar Disorder	false
+1447980740	3	rs11869731	ASIC2	lithium	Efficacy	Bipolar Disorder	false
+1449144298	3	rs6942227		lithium	Efficacy	Bipolar Disorder	false
+1449144364	3	rs1611255		lithium	Efficacy	Bipolar Disorder	false
+1447813701	3	rs79663003		lithium	Efficacy	Bipolar Disorder	false
+1449144304	3	rs1611259		lithium	Efficacy	Bipolar Disorder	false
+1449144370	3	rs209474		lithium	Efficacy	Bipolar Disorder	false
+982031323	3	rs334558	GSK3B	lithium	Efficacy	Bipolar Disorder	false
+1447813720	3	rs75222709		lithium	Efficacy	Bipolar Disorder	false
+981201455	3	rs2284017	CACNG2	lithium	Efficacy	Bipolar Disorder	false
+1447813727	3	rs74795342		lithium	Efficacy	Bipolar Disorder	false
+982032734	3	rs6438552	GSK3B	lithium	Efficacy	Bipolar Disorder	false
+1449144310	3	rs59724122	EPHX2	lithium	Efficacy	Bipolar Disorder	false
+1449005382	3	rs1000940	RABEP1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Other	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1449144376	3	rs1521470	ADCY1	lithium	Efficacy	Bipolar Disorder	false
+982032721	3	rs2769605		lithium; valproic acid	Efficacy	Bipolar Disorder	false
+1449144316	3	rs61123830	GRAMD1B	lithium	Efficacy	Bipolar Disorder	false
+1449144382	3	rs79403677	FAM177A1	lithium	Efficacy	Bipolar Disorder	false
+982032727	3	rs2071427	NR1D1; THRA	lithium	Efficacy	Bipolar Disorder	false
+1447980753	3	rs16973410		lithium	Efficacy	Bipolar Disorder	false
+1449005372	3	rs3888190	SH2B1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Toxicity	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1449144322	3	rs7959663	MYO1H	lithium	Efficacy	Bipolar Disorder	false
+982031407	3	rs2284018	CACNG2	lithium	Efficacy	Bipolar Disorder	false
+655384568	3	rs1360780	FKBP5	antidepressants; citalopram; clomipramine; lithium; nefazodone; paroxetine; venlafaxine	Efficacy	Depression	false
+1449144328	3	rs66486766		lithium	Efficacy	Bipolar Disorder	false
+1183624421	3	rs130058	HTR1B	clomipramine; liothyronine; lithium; nefazodone; venlafaxine	Toxicity	Depression	false
+982031330	3	rs2826494		lithium	Efficacy	Bipolar Disorder	false
+982031013	3	rs8192440	CRY1	lithium	Efficacy	Bipolar Disorder	false
+1449144334	3	rs7405404		lithium	Efficacy	Bipolar Disorder	false
+982032743	3	rs2032582	ABCB1	clomipramine; lithium; nefazodone; paroxetine; venlafaxine	Toxicity	Depression	false
+982032763	3	rs1800532	TPH1	lithium	Efficacy	Bipolar Disorder	false
+1449144340	3	rs6728642	FAM178B	lithium	Efficacy	Bipolar Disorder	false
+982031346	3	rs2499984	OR52J2P; OR52J3	lithium	Efficacy	Bipolar Disorder	false
+1447980724	3	rs16909440	OR52E2	lithium	Efficacy	Bipolar Disorder	false
+1449144346	3	rs62200793	ZNF804A	lithium	Efficacy	Bipolar Disorder	false
+982032756	4	rs1801260	CLOCK	lithium	Toxicity	Bipolar Disorder	false
