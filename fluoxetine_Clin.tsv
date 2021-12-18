@@ -1,0 +1,24 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1444607674	3	rs6295	HTR1A	fluoxetine	Efficacy	Depressive Disorder, Major	false
+1183614701	3	rs153549	REEP5	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1444703230	3	rs2032582	ABCB1	fluoxetine	Efficacy	Depressive Disorder	true
+1183590959	3	rs495794	SRP19	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1183614696	3	rs153560	REEP5	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+769171582	3	rs334558	GSK3B	citalopram; fluoxetine	Efficacy	Depressive Disorder, Major	false
+1448102422	3	rs1799752	ACE	fluoxetine; sertraline	Efficacy	Depressive Disorder	false
+1183617765	3	rs57098334	SLC6A4	fluoxetine	Efficacy	Depression	false
+1184989960	3	SLC6A4 HTTLPR long form (L allele); SLC6A4 HTTLPR short form (S allele)	SLC6A4	fluoxetine	Toxicity	Depressive Disorder, Major	false
+1183624646	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*17	CYP2D6	fluoxetine	Metabolism/PK	Depressive Disorder, Major; Mental Disorders	true
+637879631	4	rs25531	SLC6A4	fluoxetine	Efficacy	Depressive Disorder, Major	false
+1043858632	4	rs1800532	TPH1	antidepressants; citalopram; escitalopram; fluoxetine; paroxetine	Efficacy	Depressive Disorder, Major	false
+1043876904	3	rs242941	CRHR1	fluoxetine	Efficacy	Anxiety Disorders; Depressive Disorder, Major	false
+655386852	3	rs1799889	SERPINE1	antidepressants; citalopram; fluoxetine	Efficacy	Depressive Disorder, Major	false
+1183619225	4	rs6265	BDNF	fluoxetine	Toxicity	Depressive Disorder, Major	false
+1183629305	3	rs4148739	ABCB1	amitriptyline; citalopram; fluoxetine; paroxetine; sertraline; venlafaxine	Efficacy	Depression; Depressive Disorder, Major	false
+1448602210	3	rs9361233	HTR1B	fluoxetine	Efficacy	Depressive Disorder, Major	true
+655386856	3	rs2227631	SERPINE1	antidepressants; citalopram; fluoxetine	Efficacy	Depressive Disorder, Major	false
+1451398106	3	rs4713916	FKBP5	fluoxetine	Efficacy	Mood Disorders	false
+655385705	3	rs61888800	BDNF	antidepressants; desipramine; fluoxetine	Efficacy	Depression; Depressive Disorder, Major	false
+1444704005	3	rs2433320		fluoxetine	Efficacy	Depressive Disorder, Major	false
+1183689585	3	rs28401781	ABCB1	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1184989950	3	SLC6A4 HTTLPR long form (L allele); SLC6A4 HTTLPR short form (S allele)	SLC6A4	fluoxetine	Efficacy	Depressive Disorder, Major	false
