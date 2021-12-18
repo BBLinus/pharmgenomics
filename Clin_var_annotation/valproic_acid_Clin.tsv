@@ -1,0 +1,25 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+981203641	3	rs6759892	UGT1A10; UGT1A6; UGT1A7; UGT1A8; UGT1A9	valproic acid	Dosage	Epilepsy	false
+1184473019	3	UGT1A6*1a; UGT1A6*2a; UGT1A6*3a; UGT1A6*4a; UGT1A6*8	UGT1A6	valproic acid	Dosage	Epilepsy	true
+1449004220	3	rs28898617	UGT1A10; UGT1A3; UGT1A4; UGT1A5; UGT1A6; UGT1A7; UGT1A8; UGT1A9	valproic acid	Metabolism/PK	Epilepsy	true
+1449005372	3	rs3888190	SH2B1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Toxicity	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1447983144	3	rs1800012	COL1A1	valproic acid	Toxicity	Epilepsy	false
+981237878	3	rs1105879	UGT1A6	valproic acid	Dosage	Epilepsy	false
+1445401389	3	rs1137101	LEPR	valproic acid	Toxicity	Epilepsy	false
+1449169484	3	rs7668258	UGT2B7	valproic acid	Metabolism/PK	Epilepsy	true
+1445401399	3	rs1800497	ANKK1	valproic acid	Toxicity	Epilepsy	false
+1449169490	3	rs12233719	UGT2B7	valproic acid	Metabolism/PK	Epilepsy	true
+1444667912	3	rs4880	SOD2	valproic acid	Toxicity	Epilepsy	true
+1183492030	3	rs2279020	GABRA1	carbamazepine; phenytoin; valproic acid	Efficacy	Epilepsy	false
+982031741	4	rs7439366	UGT2B7	valproic acid	Metabolism/PK	Epilepsy	true
+1444703243	4	rs2032582	ABCB1	carbamazepine; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1449005382	3	rs1000940	RABEP1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Other	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+982032721	3	rs2769605		lithium; valproic acid	Efficacy	Bipolar Disorder	false
+981188353	3	rs2070959	UGT1A10; UGT1A6; UGT1A7; UGT1A8; UGT1A9	valproic acid	Dosage	Epilepsy	false
+1447960948	3	rs1019385	GRIN2B	valproic acid	Dosage	Epilepsy	false
+1448428239	3	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	valproic acid	Dosage,Metabolism/PK	Bipolar Disorder; Psychotic Disorders	false
+1449004229	4	rs2298771	SCN1A	carbamazepine; clobazam; ethosuximide; lamotrigine; levetiracetam; oxcarbazepine; valproic acid	Efficacy	Epilepsy	true
+1445556405	3	rs3087374	POLG	valproic acid	Toxicity	Toxic liver disease	false
+1183614578	4	rs17183814	SCN2A	antiepileptics; carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1448265356	4	CYP2C19*1; CYP2C19*2; CYP2C19*3	CYP2C19	valproic acid	Toxicity	Epilepsy	true
+1448104015	3	rs2606345	CYP1A1	carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
