@@ -1,0 +1,75 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+655385491	3	rs6277	DRD2	antipsychotics; clozapine; olanzapine	Toxicity	Schizophrenia	false
+1450815098	3	rs10170310	SPOPL	olanzapine	Efficacy	Schizophrenia	false
+655384983	3	rs4731426	LEP	olanzapine	Toxicity	Schizophrenia	false
+1444703131	3	rs1799978	DRD2	olanzapine; risperidone	Efficacy	Schizophrenia	false
+1444607507	3	TPMT*1; TPMT*3A; TPMT*3C	TPMT	olanzapine	Toxicity	Fatigue	false
+1451336074	3	rs4728709	ABCB1	olanzapine	Toxicity	Asthenia	false
+1183603970	3	rs2440390	DRD2	olanzapine	Toxicity	Mental Disorders	false
+655384607	3	rs951439	RGS4	antipsychotics; olanzapine; perphenazine; quetiapine; ziprasidone	Efficacy	Schizophrenia	false
+1447963713	3	rs7973796	PMCH	olanzapine	Toxicity	Schizophrenia	false
+655384962	3	rs6280	DRD3	olanzapine	Efficacy	Schizophrenia	false
+1444607496	4	CYP3A5*1; CYP3A5*3	CYP3A5	olanzapine	Metabolism/PK		false
+1447953116	3	rs6314	HTR2A	olanzapine	Efficacy	Schizophrenia	false
+1451605911	3	rs11872992	MC4R	olanzapine	Toxicity	Schizophrenia; Weight gain	false
+1183615135	3	rs1414334	HTR2C	olanzapine	Toxicity	Mental Disorders	false
+655385604	3	rs762551	CYP1A2	olanzapine	Efficacy		false
+1446898857	3	rs806378	CNR1	clozapine; olanzapine; risperidone	Toxicity	Autism Spectrum Disorder; Schizophrenia	true
+1043880750	3	rs324420	FAAH	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Psychotic Disorders	true
+655384966	3	rs518147	HTR2C	olanzapine	Toxicity	Schizophrenia; Weight gain	false
+1449005382	3	rs1000940	RABEP1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Other	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1183689492	3	CYP2D6*1; CYP2D6*3; CYP2D6*4	CYP2D6	olanzapine	Toxicity	Schizophrenia; Weight gain	false
+1451158887	3	rs36120609	GSTM3	olanzapine	Metabolism/PK		false
+655385483	3	rs1079598	DRD2	antipsychotics; clozapine; olanzapine	Toxicity	Schizophrenia	false
+655385613	3	rs7997012	HTR2A	olanzapine	Toxicity		false
+655384975	3	rs2842030	RGS4	olanzapine; perphenazine	Efficacy	Schizophrenia	false
+1183631404	3	rs11960832	SV2C	olanzapine	Efficacy	Schizophrenia	false
+1444706876	3	rs2734842	DRD2	olanzapine	Toxicity		false
+1183693485	3	rs1049353	CNR1	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Autism Spectrum Disorder; Psychotic Disorders; Schizophrenia	true
+1444607803	3	rs1045642	ABCB1	olanzapine	Other	Psychotic Disorders	false
+1448104050	3	rs6275	DRD2	olanzapine	Other	Bipolar Disorder; Depression	false
+1451336100	3	rs3842	ABCB1	olanzapine	Toxicity	Arrhythmias, Cardiac	false
+1183614891	3	rs10042486	HTR1A	amisulpride; antipsychotics; olanzapine; quetiapine; risperidone	Efficacy	Schizophrenia	false
+1183632165	3	rs10423928	GIPR	olanzapine	Toxicity	Schizophrenia	false
+1444706869	3	rs2734841	DRD2	olanzapine	Toxicity		false
+1184348859	3	rs13429709	GCG	clozapine; olanzapine	Other	Schizophrenia	false
+1447964002	3	rs1801282	PPARG	olanzapine	Toxicity	Schizophrenia	false
+1444706861	3	rs1880676	CHAT	olanzapine	Efficacy	Schizophrenia	false
+1444703529	3	rs2412459	EIF2AK4	olanzapine; quetiapine; risperidone; ziprasidone	Efficacy	Schizophrenia	false
+1183603764	3	rs2497538	HTR2C	olanzapine	Toxicity	Weight gain	false
+1446896644	3	rs6265	BDNF	olanzapine	Efficacy	Schizophrenia	false
+1444706854	3	rs11677416	IL1A	olanzapine	Efficacy	Schizophrenia	false
+1448104043	3	rs6279	DRD2	olanzapine	Other	Bipolar Disorder; Depression	false
+1444607526	3	UGT1A1*1; UGT1A1*28	UGT1A1	olanzapine	Toxicity	Fatigue	false
+1451605946	3	rs2268639	GLP1R	olanzapine	Toxicity	Schizophrenia; Weight gain	false
+1043880313	3	rs7877	FMO1	olanzapine	Other		false
+1444703453	3	rs7912580		olanzapine; quetiapine; risperidone; ziprasidone	Efficacy	Schizophrenia	false
+1444706911	3	rs472660	CYP3A43	olanzapine	Metabolism/PK	Schizophrenia	false
+1043880308	3	rs2266780	FMO3	olanzapine	Other		false
+1445400939	3	rs1801131	MTHFR	clozapine; olanzapine	Toxicity	schizoaffective disorder; Schizophrenia	false
+655388510	3	rs1799732	DRD2	antipsychotics; aripiprazole; bromperidol; chlorpromazine; clozapine; nemonapride; olanzapine; risperidone	Efficacy	Schizophrenia	false
+1451151920	3	rs6313	HTR2A	olanzapine	Efficacy	Schizophrenia	false
+1451336020	3	rs34059508	SLC22A1	olanzapine	Metabolism/PK		false
+1444704074	3	rs4410790	AHR	olanzapine	Metabolism/PK	Psychotic Disorders	false
+1444706890	3	rs4436578	DRD2	clozapine; olanzapine; risperidone	Toxicity	Schizophrenia	false
+1043880303	3	rs12720462	FMO1	olanzapine	Other		false
+1444607427	3	rs1799735	GSTM3	olanzapine	Metabolism/PK		false
+1183693527	3	rs1124493	DRD2	olanzapine	Other		false
+1451336026	3	rs3842	ABCB1	olanzapine	Metabolism/PK		false
+1444704067	3	rs2472297	CYP1A1	olanzapine	Metabolism/PK	Psychotic Disorders	false
+1444706883	3	rs3810950	CHAT	olanzapine	Efficacy	Schizophrenia	false
+655384946	3	rs6313	HTR2A	olanzapine	Toxicity	Schizophrenia; Weight gain	false
+1449005372	3	rs3888190	SH2B1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Toxicity	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1447943721	3	rs1076560	DRD2	olanzapine	Efficacy	Schizophrenia	false
+655384950	3	rs6313	HTR2A	olanzapine; risperidone	Efficacy	Alzheimer Disease	false
+1444607730	3	rs9852	TBC1D1	clozapine; olanzapine	Toxicity	Schizophrenia	false
+1451336041	3	rs10248420	ABCB1	olanzapine	Toxicity	somnolence	false
+655384958	3	rs4994	ADRB3	olanzapine	Toxicity	Schizophrenia; Weight gain	false
+1451336047	3	CYP3A5*1; CYP3A5*3	CYP3A5	olanzapine	Toxicity	somnolence	false
+1444607466	3	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*6	CYP2C9	olanzapine	Toxicity	Hypotension	false
+1450815114	3	rs6688363	ATP1A2	olanzapine	Efficacy	Schizophrenia	false
+1448100389	3	rs1415744	EPM2A	chlorpromazine; clozapine; haloperidol; olanzapine; quetiapine; risperidone; trifluoperazine	Efficacy	Schizophrenia	false
+1451256440	3	rs3813929	HTR2C	olanzapine	Toxicity	Mental Disorders; Schizophrenia	false
+1444607459	3	rs1800497	ANKK1	olanzapine	Metabolism/PK		false
+1451336060	3	rs5128	APOC3	olanzapine	Metabolism/PK		false
+655384942	3	rs5443	GNB3	olanzapine	Toxicity	Schizophrenia; Weight gain	false
