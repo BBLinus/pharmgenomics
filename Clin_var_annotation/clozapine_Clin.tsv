@@ -1,0 +1,45 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+981203578	3	rs6280	DRD3	clozapine	Efficacy	Schizophrenia	false
+655384529	3	rs742105	DTNBP1	clozapine	Efficacy	Schizophrenia	false
+1445402085	3	rs6295	HTR1A	clozapine	Efficacy	Schizophrenia	false
+1444700382	3	rs1360780	FKBP5	clozapine	Efficacy	Schizophrenia	false
+655385491	3	rs6277	DRD2	antipsychotics; clozapine; olanzapine	Toxicity	Schizophrenia	false
+1157204541	3	rs1150226	HTR3A	clozapine	Efficacy	Schizophrenia	false
+1448604316	3	rs2277984	C3	clozapine	Toxicity	Metabolic Syndrome	false
+1445400939	3	rs1801131	MTHFR	clozapine; olanzapine	Toxicity	schizoaffective disorder; Schizophrenia	false
+655388510	3	rs1799732	DRD2	antipsychotics; aripiprazole; bromperidol; chlorpromazine; clozapine; nemonapride; olanzapine; risperidone	Efficacy	Schizophrenia	false
+1444700371	3	rs1778929	NTRK2	clozapine	Efficacy	Schizophrenia	false
+1183693532	3	rs11872992	MC4R	clozapine	Toxicity	Schizophrenia	false
+1183615261	3	rs2276302	HTR3A	clozapine	Efficacy	Schizophrenia	false
+1448427588	3	GSTT1 non-null; GSTT1 null	GSTT1	clozapine	Toxicity		false
+1451256466	3	rs3813929	HTR2C	clozapine	Toxicity	Mental Disorders; Schizophrenia	false
+1446898857	3	rs806378	CNR1	clozapine; olanzapine; risperidone	Toxicity	Autism Spectrum Disorder; Schizophrenia	true
+1448104005	3	rs2975226	SLC6A3	clozapine	Efficacy	Schizophrenia	false
+1451356180	3	rs28379954	NFIB	clozapine	Metabolism/PK	Schizophrenia	false
+1043880750	3	rs324420	FAAH	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Psychotic Disorders	true
+1444700362	3	rs10465180	NTRK2	clozapine	Efficacy	Schizophrenia	false
+1444706890	3	rs4436578	DRD2	clozapine; olanzapine; risperidone	Toxicity	Schizophrenia	false
+1444713220	3	HLA-DRB3*02:02:01:01	HLA-DRB3	clozapine	Toxicity	Schizophrenia	false
+1445402111	3	rs4680	COMT	clozapine	Efficacy	Schizophrenia	false
+1449005382	3	rs1000940	RABEP1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Other	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1451162662	3	UGT1A1*1; UGT1A1*28	UGT1A1	clozapine	Metabolism/PK		false
+655385674	3	rs1414334	HTR2C	clozapine	Toxicity	Metabolic Syndrome; Schizophrenia	false
+655385483	3	rs1079598	DRD2	antipsychotics; clozapine; olanzapine	Toxicity	Schizophrenia	false
+1183556309	3	rs7787082	ABCB1	clozapine	Efficacy	Schizophrenia	false
+1184348872	3	rs2268639	GLP1R	clozapine	Toxicity	Schizophrenia; Weight gain	false
+1444608250	3	CYP1A2*1A; CYP1A2*1F	CYP1A2	clozapine	Toxicity	Schizophrenia	false
+1183693485	3	rs1049353	CNR1	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Autism Spectrum Disorder; Psychotic Disorders; Schizophrenia	true
+1449005372	3	rs3888190	SH2B1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Toxicity	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1444607730	3	rs9852	TBC1D1	clozapine; olanzapine	Toxicity	Schizophrenia	false
+1183614886	3	rs10248420	ABCB1	clozapine	Efficacy	Schizophrenia	false
+1448123834	3	rs2535629	ITIH3	clozapine	Efficacy	Schizophrenia	false
+1184348859	3	rs13429709	GCG	clozapine; olanzapine	Other	Schizophrenia	false
+1447963644	3	rs265976	DRD1	clozapine	Efficacy	Schizophrenia	false
+1448427559	3	rs1045642	ABCB1	clozapine	Toxicity		false
+1183615288	3	rs1062613	HTR3A	clozapine	Efficacy	Schizophrenia	false
+1448532002	3	rs149104283		clozapine	Toxicity	Neutropenia	false
+1448100389	3	rs1415744	EPM2A	chlorpromazine; clozapine; haloperidol; olanzapine; quetiapine; risperidone; trifluoperazine	Efficacy	Schizophrenia	false
+1447952825	3	rs1072388	GRIN2B	clozapine	Efficacy	Schizophrenia	false
+1156497684	3	rs72547516	CYP1A2	clozapine	Other		false
+1448427566	3	GSTM1 non-null; GSTM1 null	GSTM1	clozapine	Toxicity		false
+1155650524	3	rs72547517	CYP1A2	clozapine	Other		false
