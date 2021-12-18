@@ -1,0 +1,5 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1183616940	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5	CYP2D6	imipramine	Metabolism/PK	Depressive Disorder, Major; Mental Disorders	false
+1183617103	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	imipramine	Metabolism/PK	Depressive Disorder; Depressive Disorder, Major	false
+1451265448	1A	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6	CYP2D6	imipramine	Toxicity	Depressive Disorder	false
+1451265560	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*2xN; CYP2D6*4; CYP2D6*5	CYP2D6	imipramine	Dosage	Depressive Disorder	false
