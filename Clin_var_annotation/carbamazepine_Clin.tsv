@@ -1,0 +1,55 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+981419263	1A	HLA-B*15:02:01	HLA-B	carbamazepine	Toxicity	Epidermal Necrolysis, Toxic; severe cutaneous adverse reactions; Stevens-Johnson Syndrome	true
+1185000097	3	rs2273697	ABCC2	carbamazepine	Toxicity	Epilepsy	false
+981204345	4	rs1045642	ABCB1	carbamazepine	Efficacy	Epilepsy	false
+1448266838	3	rs15524	CYP3A5	carbamazepine	Metabolism/PK	Epilepsy	false
+1444704921	3	rs3740066	ABCC2	carbamazepine	Metabolism/PK	Epilepsy	false
+613976848	3	rs750332	BAG6; PRRC2A	carbamazepine	Toxicity		false
+1447983940	3	rs762551	CYP1A2	carbamazepine	Metabolism/PK	Epilepsy	true
+1444703250	4	rs2071197	HNF4A	carbamazepine	Metabolism/PK	Epilepsy	false
+1445401897	3	rs2242480	CYP3A4	carbamazepine	Metabolism/PK	Epilepsy	false
+1448525763	3	HLA-C*08:01	HLA-C	carbamazepine	Toxicity	Epidermal Necrolysis, Toxic; Stevens-Johnson Syndrome	false
+1183533981	3	rs2290732	GABRA1	carbamazepine	Efficacy	Epilepsy	false
+1444703243	4	rs2032582	ABCB1	carbamazepine; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1449004229	4	rs2298771	SCN1A	carbamazepine; clobazam; ethosuximide; lamotrigine; levetiracetam; oxcarbazepine; valproic acid	Efficacy	Epilepsy	true
+1445401915	4	rs1045642	ABCB1	carbamazepine	Dosage,Metabolism/PK	Epilepsy	false
+1448104015	3	rs2606345	CYP1A1	carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1444666938	3	HLA-A*02:01:01:01	HLA-A	carbamazepine	Toxicity	Drug Hypersensitivity	false
+1447987052	3	rs2461817	NR1I2	carbamazepine	Metabolism/PK	Epilepsy	false
+1444708021	3	HLA-B*46:01:01	HLA-B	carbamazepine	Toxicity	severe cutaneous adverse reactions	false
+613978931	2B	rs3812718	SCN1A	carbamazepine	Dosage	Epilepsy	false
+1184997130	3	HLA-B*58:01	HLA-B	carbamazepine	Toxicity	Maculopapular Exanthema	false
+1447987045	3	rs3814055	NR1I2	carbamazepine	Metabolism/PK	Epilepsy	false
+1183614624	3	rs3812718	SCN1A	carbamazepine	Efficacy	Epilepsy	false
+613976757	3	rs2234922	EPHX1	carbamazepine	Dosage	Epilepsy	false
+1184997007	3	HLA-B*15:18:01	HLA-B	carbamazepine	Toxicity	Stevens-Johnson Syndrome	false
+981238092	3	rs2032582	ABCB1	antiepileptics; carbamazepine	Dosage,Efficacy	Epilepsy	false
+1184997136	3	HLA-B*58:01	HLA-B	carbamazepine	Toxicity	Epidermal Necrolysis, Toxic; Stevens-Johnson Syndrome	false
+1183492030	3	rs2279020	GABRA1	carbamazepine; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1447987066	3	rs28365063	UGT2B7	carbamazepine	Metabolism/PK	Epilepsy	false
+1183632180	3	rs1043620	HSPA1A; HSPA1L	carbamazepine	Toxicity		false
+1447987059	3	rs7643645	NR1I2	carbamazepine	Metabolism/PK	Epilepsy	false
+1445401880	3	rs776746	CYP3A5	carbamazepine	Dosage,Metabolism/PK	Epilepsy	false
+1447987087	3	rs4148739	ABCB1	carbamazepine	Metabolism/PK	Epilepsy	false
+655385814	4	rs2273697	ABCC2	antiepileptics; carbamazepine; oxcarbazepine	Toxicity	Epilepsy	true
+1447987080	3	rs4148740	ABCB1	carbamazepine	Metabolism/PK	Epilepsy	false
+655385818	3	rs1800629	LTA; TNF	carbamazepine	Toxicity	Hypersensitivity	false
+1444666198	3	HLA-DRB1*03:01:01:01	HLA-DRB1	carbamazepine	Toxicity	Maculopapular Exanthema	false
+1183693378	2A	HLA-B*40:01:01	HLA-B	carbamazepine	Toxicity	Epidermal Necrolysis, Toxic; Stevens-Johnson Syndrome	false
+1185012209	3	HLA-A*24:02:01:01	HLA-A	carbamazepine	Toxicity	drug reaction with eosinophilia and systemic symptoms; severe cutaneous adverse reactions	false
+1447987101	3	rs2740574	CYP3A4	carbamazepine	Metabolism/PK	Epilepsy	false
+1448098947	3	rs4148386	ABCC2	carbamazepine	Metabolism/PK	Epilepsy	false
+1451431120	3	HLA-B*15:21	HLA-B	carbamazepine	Toxicity	Epidermal Necrolysis, Toxic; severe cutaneous adverse reactions; Stevens-Johnson Syndrome	false
+613977037	3	rs2227956	HSPA1L	carbamazepine	Toxicity	Epilepsy	false
+1447987094	4	rs1128503	ABCB1	carbamazepine	Metabolism/PK	Epilepsy	false
+1444666950	3	HLA-B*51:01:01	HLA-B	carbamazepine	Toxicity	Drug Hypersensitivity	false
+1451599320	3	rs2304016	SCN2A	carbamazepine	Efficacy	Epilepsy	false
+1183701224	1A	HLA-A*31:01:02	HLA-A	carbamazepine	Toxicity	Drug Hypersensitivity; drug reaction with eosinophilia and systemic symptoms; Epidermal Necrolysis, Toxic; Maculopapular Exanthema; Stevens-Johnson Syndrome	true
+1446906328	3	rs4688040	NR1I2	carbamazepine	Metabolism/PK	Epilepsy	false
+1448525745	3	HLA-A*11:01:01	HLA-A	carbamazepine	Toxicity	Drug Hypersensitivity; Epidermal Necrolysis, Toxic; erythema exudativum multiforme; Maculopapular Exanthema; Stevens-Johnson Syndrome	false
+981238550	3	rs1051740	EPHX1	carbamazepine	Metabolism/PK	Epilepsy	false
+1184996938	2A	HLA-B*15:11:01	HLA-B	carbamazepine	Toxicity	severe cutaneous adverse reactions	false
+1184997201	3	HLA-B*59:01:01:01	HLA-B	carbamazepine	Toxicity	Stevens-Johnson Syndrome	false
+1183614591	4	rs2298771	SCN1A	carbamazepine; oxcarbazepine	Efficacy	Epilepsy	false
+1451253880	3	rs1051740	EPHX1	carbamazepine	Dosage	Epilepsy	false
+1183614578	4	rs17183814	SCN2A	antiepileptics; carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
