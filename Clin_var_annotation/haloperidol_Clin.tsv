@@ -1,0 +1,12 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1183491354	3	rs2298826	SLC6A5	haloperidol	Toxicity	Schizophrenia	false
+1183693485	3	rs1049353	CNR1	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Autism Spectrum Disorder; Psychotic Disorders; Schizophrenia	true
+1451398307	3	rs489693	MC4R	haloperidol	Toxicity	Hypertriglyceridemia; schizoaffective disorder; Schizophrenia; Weight gain	true
+655384866	3	rs909706	DTNBP1	haloperidol	Efficacy	Schizophrenia	false
+1448100389	3	rs1415744	EPM2A	chlorpromazine; clozapine; haloperidol; olanzapine; quetiapine; risperidone; trifluoperazine	Efficacy	Schizophrenia	false
+1043880750	3	rs324420	FAAH	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Psychotic Disorders	true
+1444673123	3	rs4680	COMT	haloperidol	Toxicity	Schizophrenia	false
+1183631061	1A	CYP2D6*1; CYP2D6*2; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17	CYP2D6	haloperidol	Metabolism/PK	Schizophrenia	true
+1444703446	3	rs7912580		haloperidol	Efficacy	Schizophrenia	false
+1444703537	3	rs2412459	EIF2AK4	haloperidol	Efficacy	Schizophrenia	false
+1445402201	3	rs17143212	ABCB5	haloperidol	Toxicity	Psychotic Disorders	false
