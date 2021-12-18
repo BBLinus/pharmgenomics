@@ -1,0 +1,8 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1448100786	3	rs4516035	VDR	midazolam	Metabolism/PK		false
+1183491214	3	rs1057868	POR	midazolam	Other		false
+1448100804	3	rs11568820	VDR	midazolam	Metabolism/PK		false
+1447986938	3	CYP3A5*1; CYP3A5*3	CYP3A5	midazolam	Metabolism/PK		false
+655385749	3	rs12721627	CYP3A4	midazolam	Other		false
+1448100777	3	rs1544410	VDR	midazolam	Metabolism/PK		false
+982031106	3	rs35599367	CYP3A4	midazolam	Other	Neoplasms	false
