@@ -1,0 +1,82 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1451256448	3	rs3813929	HTR2C	risperidone	Toxicity	Mental Disorders; Schizophrenia	true
+1451277440	3	rs1414334	HTR2C	risperidone	Toxicity	Metabolic Syndrome	false
+1450928505	3	rs4818	COMT	risperidone	Efficacy	Schizophrenia	false
+655384979	3	rs2842030	RGS4	risperidone	Efficacy	Schizophrenia	false
+1444673053	3	rs3787430	HRH3	risperidone	Efficacy	Schizophrenia	false
+655385495	3	rs1800497	ANKK1; DRD2	risperidone	Toxicity	Hyperprolactinemia; Schizophrenia	false
+1444703131	3	rs1799978	DRD2	olanzapine; risperidone	Efficacy	Schizophrenia	false
+655387672	3	rs1799978	DRD2	risperidone	Toxicity		false
+1450928499	3	rs2515641	CYP2E1	risperidone	Efficacy	Schizophrenia	false
+655384602	3	rs951439	RGS4	risperidone	Efficacy	Schizophrenia	false
+1444673046	3	rs3787429	HRH3	risperidone	Efficacy	Schizophrenia	false
+1447953347	3	rs2069062	GRM7	risperidone	Efficacy		false
+1450815092	3	rs2636697	PPA2	risperidone	Efficacy	Schizophrenia	false
+982030854	3	rs9606186	COMT	risperidone	Efficacy	Schizophrenia	false
+1451151857	3	rs6313	HTR2A	risperidone	Efficacy	Schizophrenia	false
+655387652	4	rs1799978	DRD2	risperidone	Efficacy	Schizophrenia	false
+1446898857	3	rs806378	CNR1	clozapine; olanzapine; risperidone	Toxicity	Autism Spectrum Disorder; Schizophrenia	true
+1043880750	3	rs324420	FAAH	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Psychotic Disorders	true
+1451428500	3	CYP2D6*1; CYP2D6*87; CYP2D6*88; CYP2D6*89; CYP2D6*90; CYP2D6*91; CYP2D6*93; CYP2D6*94; CYP2D6*95; CYP2D6*97; CYP2D6*98	CYP2D6	risperidone	Metabolism/PK		false
+1449005382	3	rs1000940	RABEP1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Other	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1451398299	3	rs17782313	MC4R	risperidone	Toxicity	Weight gain	false
+1450928486	3	rs362267	HTT; MSANTD1	risperidone	Efficacy	Schizophrenia	false
+1183693485	3	rs1049353	CNR1	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Autism Spectrum Disorder; Psychotic Disorders; Schizophrenia	true
+1449732040	4	rs1045642	ABCB1	risperidone	Metabolism/PK	Bipolar Disorder; Depression; Psychotic Disorders; Schizophrenia; Substance-Related Disorders	false
+1450928473	3	rs10012	CYP1B1	risperidone	Efficacy	Schizophrenia	false
+1183632175	3	rs1042713	ADRB2	risperidone	Toxicity	Schizophrenia	false
+1183629480	3	rs1806201	GRIN2B	risperidone	Toxicity	Drug Toxicity	false
+1444702778	3	rs2857657	CCL2	risperidone	Efficacy	Schizophrenia	false
+1183614891	3	rs10042486	HTR1A	amisulpride; antipsychotics; olanzapine; quetiapine; risperidone	Efficacy	Schizophrenia	false
+1444703529	3	rs2412459	EIF2AK4	olanzapine; quetiapine; risperidone; ziprasidone	Efficacy	Schizophrenia	false
+1450928460	3	rs6706232	UGT1A10; UGT1A3; UGT1A4; UGT1A5; UGT1A6; UGT1A7; UGT1A8; UGT1A9	risperidone	Efficacy	Schizophrenia	false
+1183629489	3	rs6313	HTR2A	risperidone	Toxicity	Drug Toxicity	false
+1450815172	3	rs2636719	PPA2	risperidone	Efficacy	Schizophrenia	false
+1450928454	3	rs1056827	CYP1B1	risperidone	Efficacy	Schizophrenia	false
+1183631564	3	rs4483927	HRH4	risperidone	Efficacy	Schizophrenia	false
+1444703453	3	rs7912580		olanzapine; quetiapine; risperidone; ziprasidone	Efficacy	Schizophrenia	false
+1450815160	3	rs785423	TJP1	risperidone	Efficacy	Schizophrenia	false
+1447960458	3	rs1805054		risperidone	Toxicity	Schizophrenia	false
+655387221	3	rs6280	DRD3	risperidone	Efficacy	Autistic Disorder	true
+1450815166	3	rs7395555		risperidone	Efficacy	Schizophrenia	false
+1451398347	3	rs489693	MC4R	risperidone	Toxicity	Weight gain	true
+655385050	3	rs2661319	RGS4	risperidone	Efficacy	Schizophrenia	false
+1450815154	3	rs711355	TJP1	risperidone	Efficacy	Schizophrenia	false
+1444607318	3	rs7643645	NR1I2	risperidone	Metabolism/PK	Psychotic Disorders	false
+655387229	3	rs1128503	ABCB1	risperidone	Efficacy	Autistic Disorder	true
+655388510	3	rs1799732	DRD2	antipsychotics; aripiprazole; bromperidol; chlorpromazine; clozapine; nemonapride; olanzapine; risperidone	Efficacy	Schizophrenia	false
+655385054	4	rs1800497	ANKK1; DRD2	risperidone	Efficacy	Schizophrenia	false
+1448266396	3	rs35599367	CYP3A4	risperidone	Metabolism/PK	Bipolar Disorder; Depression; Substance-Related Disorders	false
+1447953311	3	rs1875705	GRID2	risperidone	Efficacy		false
+1444702792	3	rs4795893	CCL2	risperidone	Efficacy	Schizophrenia	false
+1450928430	3	rs362306	HTT; MSANTD1	risperidone	Efficacy	Schizophrenia	false
+1444706890	3	rs4436578	DRD2	clozapine; olanzapine; risperidone	Toxicity	Schizophrenia	false
+1184136899	3	SLC6A4 HTTLPR long form (L allele); SLC6A4 HTTLPR short form (S allele)	SLC6A4	risperidone	Toxicity	Drug Toxicity	false
+1444702784	3	rs4586	CCL2	risperidone	Efficacy	Schizophrenia	false
+655385072	3	rs165599	COMT	risperidone	Efficacy	Schizophrenia	false
+1183621997	1A	CYP2D6*1; CYP2D6*1xN; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*6; CYP2D6*10; CYP2D6*14	CYP2D6	risperidone	Metabolism/PK	Psychotic Disorders; Schizophrenia	true
+1449753224	3	rs10929302	UGT1A1	risperidone	Toxicity	Hyperprolactinemia	true
+1450823707	3	rs2514218	DRD2	aripiprazole; risperidone	Efficacy	Psychotic Disorders; schizoaffective disorder; Schizophrenia	true
+1449005372	3	rs3888190	SH2B1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Toxicity	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1450815130	3	rs2980976	TNFRSF11A	risperidone	Efficacy	Schizophrenia	false
+1449753229	3	rs1976391	UGT1A1	risperidone	Toxicity	Hyperprolactinemia	true
+655385077	3	rs724226	GRM3	risperidone	Efficacy	Schizophrenia	false
+655384950	3	rs6313	HTR2A	olanzapine; risperidone	Efficacy	Alzheimer Disease	false
+655387257	3	rs7799039	LEP	antipsychotics; risperidone	Toxicity	Autism Spectrum Disorder; Mood Disorders	true
+1450815120	3	rs8050896		risperidone	Efficacy	Schizophrenia	false
+655384954	3	rs6318	HTR2C	risperidone	Toxicity	Schizophrenia; Weight gain	true
+1450928528	4	rs4633	COMT	risperidone	Efficacy	Schizophrenia	false
+1447963042	3	rs1800497	ANKK1	antipsychotics; aripiprazole; risperidone	Efficacy	Schizophrenia	false
+1450928534	4	rs4680	COMT	risperidone	Efficacy	Schizophrenia	false
+1448266429	3	rs2276707	NR1I2	risperidone	Metabolism/PK	Bipolar Disorder; Depression; Substance-Related Disorders	false
+1450928522	3	rs6280	DRD3	risperidone	Efficacy	Schizophrenia	false
+655387876	3	rs167771	DRD3	risperidone	Toxicity	Bipolar Disorder; Schizophrenia	false
+655387237	3	rs6311	HTR2A	risperidone	Efficacy	Autistic Disorder	true
+1448100389	3	rs1415744	EPM2A	chlorpromazine; clozapine; haloperidol; olanzapine; quetiapine; risperidone; trifluoperazine	Efficacy	Schizophrenia	false
+655385062	3	rs2494732	AKT1	risperidone	Efficacy	Schizophrenia	false
+1450815104	3	rs813676	TJP1	risperidone	Efficacy	Schizophrenia	false
+655385067	3	rs3803300	AKT1	risperidone	Efficacy	Schizophrenia	false
+1449753234	3	rs887829	UGT1A1	risperidone	Toxicity	Hyperprolactinemia	true
+1444666855	3	rs1045642	ABCB1	risperidone	Toxicity	Schizophrenia	false
+655387245	3	rs3813928	HTR2C	risperidone	Efficacy	Autistic Disorder	true
+1448266413	3	rs1523130	NR1I2	risperidone	Metabolism/PK	Bipolar Disorder; Depression; Substance-Related Disorders	false
