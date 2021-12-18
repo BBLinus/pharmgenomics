@@ -1,0 +1,64 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1444608027	3	rs7124442	BDNF	citalopram	Efficacy	Depressive Disorder, Major	false
+1450931583	3	rs6311	HTR2A	citalopram	Toxicity	Depressive Disorder, Major; Nausea; Vomiting	false
+1444705174	3	rs760761	DTNBP1	citalopram	Efficacy	Depressive Disorder, Major	false
+1183629315	3	rs2235067	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depressive Disorder, Major	false
+1444705166	3	rs809736	RORA	citalopram	Efficacy	Depressive Disorder, Major	false
+982031517	3	rs352428		citalopram; escitalopram	Efficacy	Depressive Disorder, Major	false
+1043858606	3	rs6265	BDNF	antidepressants; citalopram; paroxetine	Efficacy	Depressive Disorder	false
+1451418260	3	CYP2D6*1; CYP2D6*1xN; CYP2D6*2xN	CYP2D6	citalopram	Efficacy		false
+1043859119	3	rs9380524	FKBP5	citalopram; escitalopram	Efficacy	Depressive Disorder, Major	false
+1451282840	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*4	CYP2C19	citalopram	Toxicity	Depressive Disorder	false
+1183620242	4	CYP2D6*1; CYP2D6*3; CYP2D6*4; CYP2D6*5; CYP2D6*10; CYP2D6*17; CYP2D6*41	CYP2D6	citalopram	Toxicity	Depressive Disorder, Major	false
+1444705214	4	rs25531	SLC6A4	citalopram	Toxicity		false
+1183590959	3	rs495794	SRP19	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+769171582	3	rs334558	GSK3B	citalopram; fluoxetine	Efficacy	Depressive Disorder, Major	false
+1183631787	3	rs915120	GRK5	citalopram; escitalopram	Efficacy	Depressive Disorder	false
+1444705206	3	rs2270007	CRHR2	citalopram	Efficacy	Depressive Disorder, Major	false
+1451418281	3	CYP2D6*1; CYP2D6*4	CYP2D6	citalopram	Dosage		false
+1183620386	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	citalopram	Metabolism/PK	Depressive Disorder; Depressive Disorder, Major	false
+655384510	3	rs7569963	CREB1; METTL21A	antidepressants; citalopram	Efficacy,Toxicity	Depression	false
+1444608040	4	rs7103411	BDNF	citalopram	Efficacy	Depressive Disorder, Major	false
+1444705198	3	rs10975641	GLDC	citalopram; escitalopram	Efficacy	Depressive Disorder, Major	false
+619523422	3	rs2235015	ABCB1	amitriptyline; antidepressants; citalopram; paroxetine; venlafaxine	Efficacy	Depression; Depressive Disorder; Depressive Disorder, Major	false
+982031026	3	rs7787082	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depressive Disorder	false
+619523414	3	rs2032583	ABCB1	amitriptyline; antidepressants; citalopram; fluvoxamine; paroxetine; sertraline; venlafaxine	Efficacy	Depression; Depressive Disorder; Depressive Disorder, Major	false
+1444705191	3	rs10848635	CACNA1C	citalopram	Toxicity	Depressive Disorder, Major	false
+1183631792	3	rs11144870	RFK	citalopram; escitalopram	Efficacy	Depressive Disorder	false
+1444700760	4	rs12054895		citalopram; escitalopram	Efficacy	Depressive Disorder, Major	false
+1444705243	3	rs6966038		citalopram	Efficacy	Depressive Disorder, Major	false
+1444705236	3	rs6313	HTR2A	citalopram	Toxicity	Depressive Disorder	false
+1444704081	3	rs4570625	TPH2	citalopram	Efficacy	Depressive Disorder	true
+1183619292	3	rs10248420	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depression	false
+1444705229	3	rs6127921		citalopram	Efficacy	Depressive Disorder, Major	false
+1447990940	3	rs696692	ERICH3	citalopram; escitalopram	Efficacy	Depressive Disorder	false
+1183614687	3	rs16965962		citalopram	Toxicity	Depressive Disorder, Major	false
+1184989940	3	SLC6A4 HTTLPR long form (L allele); SLC6A4 HTTLPR short form (S allele)	SLC6A4	citalopram	Efficacy	Depressive Disorder, Major	true
+1447987227	3	rs11580409	ERICH3	citalopram; escitalopram	Efficacy	Depressive Disorder	false
+1183614682	3	rs17135437	COL26A1	citalopram	Toxicity	Depressive Disorder, Major	false
+1444700740	3	rs11628713	PAPLN	citalopram	Toxicity	Depressive Disorder, Major	false
+1444705222	3	rs585719		citalopram	Efficacy	Depressive Disorder	false
+1183617618	3	rs2235040	ABCB1	antidepressants; citalopram; fluvoxamine; paroxetine; sertraline; venlafaxine	Toxicity		false
+1183614701	3	rs153549	REEP5	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1446906335	3	rs4825476	GRIA3	citalopram	Toxicity	Depression; suicide	false
+1451407329	3	rs6313	HTR2A	citalopram	Toxicity	Depressive Disorder, Major; Sexual Dysfunctions, Psychological	false
+1183614696	3	rs153560	REEP5	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1448112052	3	rs6296	HTR1B	citalopram	Toxicity	Anxiety Disorders; Depressive Disorder, Major	true
+1444704763	3	rs1006737	CACNA1C	citalopram	Toxicity	Depressive Disorder, Major	false
+655384568	3	rs1360780	FKBP5	antidepressants; citalopram; clomipramine; lithium; nefazodone; paroxetine; venlafaxine	Efficacy	Depression	false
+1444666738	3	rs520210	NEDD4L	citalopram	Efficacy	Depression	false
+1183619303	3	rs10280101	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depression	false
+637880425	3	rs7997012	HTR2A	citalopram	Efficacy	Depression; Depressive Disorder	false
+1447987235	4	rs11947402	TSPAN5	citalopram; escitalopram	Other	Depressive Disorder	false
+1451418220	3	CYP2D6*1; CYP2D6*4; CYP2D6*10	CYP2D6	citalopram	Metabolism/PK		false
+1451407341	3	rs6311	HTR2A	citalopram	Toxicity	Depressive Disorder, Major; Sexual Dysfunctions, Psychological	false
+1043858632	4	rs1800532	TPH1	antidepressants; citalopram; escitalopram; fluoxetine; paroxetine	Efficacy	Depressive Disorder, Major	false
+1183629310	3	rs4148740	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depressive Disorder, Major	false
+655386852	3	rs1799889	SERPINE1	antidepressants; citalopram; fluoxetine	Efficacy	Depressive Disorder, Major	false
+1183629305	3	rs4148739	ABCB1	amitriptyline; citalopram; fluoxetine; paroxetine; sertraline; venlafaxine	Efficacy	Depression; Depressive Disorder, Major	false
+1183619322	3	rs2235040	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depression	false
+1444706794	3	rs4675690		citalopram	Toxicity	Depressive Disorder, Major	false
+655386856	3	rs2227631	SERPINE1	antidepressants; citalopram; fluoxetine	Efficacy	Depressive Disorder, Major	false
+1183619317	3	rs12720067	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depression	false
+1183619312	3	rs11983225	ABCB1	amitriptyline; citalopram; paroxetine; venlafaxine	Efficacy	Depression	false
+1183689585	3	rs28401781	ABCB1	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
