@@ -1,0 +1,19 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1183614701	3	rs153549	REEP5	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1451397920	3	CYP2D6*1; CYP2D6*4	CYP2D6	sertraline	Dosage	Depression	false
+1451407200	3	SLC6A4 HTTLPR long form (L allele); SLC6A4 HTTLPR short form (S allele)	SLC6A4	sertraline	Toxicity	Depressive Disorder, Major; Sexual Dysfunctions, Psychological	false
+1183590959	3	rs495794	SRP19	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1450931960	3	rs5441	GNB3; P3H3	sertraline	Efficacy	Depressive Disorder, Major	false
+1183614696	3	rs153560	REEP5	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1448102422	3	rs1799752	ACE	fluoxetine; sertraline	Efficacy	Depressive Disorder	false
+1444607379	3	rs57098334	SLC6A4	sertraline	Efficacy	Depressive Disorder, Major	false
+1183614721	3	rs13432159		sertraline	Toxicity	Depressive Disorder, Major	false
+1183619004	1A	CYP2C19*1; CYP2C19*2; CYP2C19*3; CYP2C19*17	CYP2C19	sertraline	Metabolism/PK	Mental Disorders	false
+1184989970	4	SLC6A4 HTTLPR long form (L allele); SLC6A4 HTTLPR short form (S allele)	SLC6A4	sertraline	Efficacy	Depressive Disorder, Major	false
+655384772	3	rs6295	HTR1A	antidepressants; fluvoxamine; paroxetine; Selective serotonin reuptake inhibitors; sertraline	Efficacy	Depressive Disorder; Depressive Disorder, Major	false
+1183629305	3	rs4148739	ABCB1	amitriptyline; citalopram; fluoxetine; paroxetine; sertraline; venlafaxine	Efficacy	Depression; Depressive Disorder, Major	false
+1451407348	3	rs6311	HTR2A	sertraline	Toxicity	Depressive Disorder, Major; Sexual Dysfunctions, Psychological	false
+619523414	3	rs2032583	ABCB1	amitriptyline; antidepressants; citalopram; fluvoxamine; paroxetine; sertraline; venlafaxine	Efficacy	Depression; Depressive Disorder; Depressive Disorder, Major	false
+1451407321	3	rs6313	HTR2A	sertraline	Toxicity	Depressive Disorder, Major; Sexual Dysfunctions, Psychological	false
+1183689585	3	rs28401781	ABCB1	citalopram; fluoxetine; paroxetine; sertraline	Efficacy	Depressive Disorder, Major	false
+1183617618	3	rs2235040	ABCB1	antidepressants; citalopram; fluvoxamine; paroxetine; sertraline; venlafaxine	Toxicity		false
