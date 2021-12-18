@@ -1,0 +1,36 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1183693390	3	HLA-B*13:01:01	HLA-B	phenytoin	Toxicity	drug reaction with eosinophilia and systemic symptoms; Epidermal Necrolysis, Toxic; Stevens-Johnson Syndrome	false
+982047500	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3; CYP2C9*5; CYP2C9*6; CYP2C9*8; CYP2C9*11; CYP2C9*13; CYP2C9*14; CYP2C9*16; CYP2C9*29; CYP2C9*31; CYP2C9*33; CYP2C9*37; CYP2C9*39; CYP2C9*42; CYP2C9*43; CYP2C9*45; CYP2C9*50; CYP2C9*52; CYP2C9*55	CYP2C9	phenytoin	Metabolism/PK	Epilepsy	true
+1449565422	3	rs1029359343	CYP2C9	phenytoin	Toxicity	Drug Toxicity	true
+1450377208	3	rs1799930	NAT2	isoniazid; phenytoin	Toxicity	Drug interaction with drug; Drug Toxicity	false
+1450377214	3	rs1208	NAT2	isoniazid; phenytoin	Toxicity	Drug interaction with drug; Drug Toxicity	false
+1450376319	3	rs78239784	CFHR4	phenytoin	Toxicity	Maculopapular Exanthema	false
+1449565416	3	rs544027339	CYP2C9	phenytoin	Toxicity	Drug Toxicity	true
+1450377187	3	rs1801280	NAT2	isoniazid; phenytoin	Toxicity	Drug interaction with drug; Drug Toxicity	false
+655385989	3	rs1051740	EPHX1	phenytoin	Toxicity	Congenital Abnormalities; Craniofacial Abnormalities	false
+1444703243	4	rs2032582	ABCB1	carbamazepine; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1449566334	3	HLA-A*24:02:01:01	HLA-A	phenytoin	Toxicity	Epidermal Necrolysis, Toxic; Stevens-Johnson Syndrome	true
+655385993	3	rs2234922	EPHX1	phenytoin	Toxicity	Congenital Abnormalities; Craniofacial Abnormalities	false
+981238501	1A	CYP2C9*1; CYP2C9*2; CYP2C9*3	CYP2C9	phenytoin	Toxicity	Epilepsy	true
+1450377193	3	rs1799929	NAT2	isoniazid; phenytoin	Toxicity	Drug interaction with drug; Drug Toxicity	false
+981237922	3	rs1128503	ABCB1	phenytoin	Other		false
+1448525768	3	HLA-C*08:01	HLA-C	phenytoin	Toxicity	Epidermal Necrolysis, Toxic; Maculopapular Exanthema; Stevens-Johnson Syndrome	false
+1448104015	3	rs2606345	CYP1A1	carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
+613978937	3	rs3812718	SCN1A	phenytoin	Dosage	Epilepsy	false
+1184997120	3	HLA-B*56:02	HLA-B	phenytoin	Toxicity	drug reaction with eosinophilia and systemic symptoms; Epidermal Necrolysis, Toxic; severe cutaneous adverse reactions; Stevens-Johnson Syndrome	false
+981204317	3	rs1045642	ABCB1	phenytoin	Dosage		false
+1451120280	3	rs1801133	MTHFR	phenobarbital; phenytoin	Toxicity	Epilepsy; Psychotic Disorders	false
+1449565774	3	CYP2C9*1; CYP2C9*19; CYP2C9*27; CYP2C9*36; CYP2C9*40; CYP2C9*41; CYP2C9*47; CYP2C9*49; CYP2C9*51; CYP2C9*53; CYP2C9*54; CYP2C9*56	CYP2C9	phenytoin	Metabolism/PK		false
+981204306	3	rs1045642	ABCB1	phenytoin	Efficacy	Epilepsy	false
+1451148820	3	rs780801862	CYP2C9	phenytoin	Metabolism/PK		false
+1450377181	3	rs1041983	NAT2	isoniazid; phenytoin	Toxicity	Drug interaction with drug; Drug Toxicity	false
+1183492030	3	rs2279020	GABRA1	carbamazepine; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1451599347	3	rs2304016	SCN2A	phenytoin	Efficacy	Epilepsy	false
+1450377220	3	rs1799931	NAT2	isoniazid; phenytoin	Toxicity	Drug interaction with drug; Drug Toxicity	false
+1445401439	3	rs1934969	CYP2C9	phenytoin	Metabolism/PK	Epilepsy	false
+1183704311	3	rs71486745	CYP2C9	phenytoin	Dosage		false
+1043873028	3	rs12782374	CYP2C9	phenytoin	Dosage	Epilepsy	false
+981419266	1A	HLA-B*15:02:01	HLA-B	phenytoin	Toxicity	drug reaction with eosinophilia and systemic symptoms; Epidermal Necrolysis, Toxic; severe cutaneous adverse reactions; Stevens-Johnson Syndrome	true
+1448615589	3	rs4986893	CYP2C19	phenytoin	Toxicity		false
+1183614578	4	rs17183814	SCN2A	antiepileptics; carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1447949171	3	HLA-B*15:13:01	HLA-B	phenytoin	Toxicity	drug reaction with eosinophilia and systemic symptoms; Epidermal Necrolysis, Toxic; Stevens-Johnson Syndrome	false
