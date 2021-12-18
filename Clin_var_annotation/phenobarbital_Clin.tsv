@@ -1,0 +1,6 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1451120280	3	rs1801133	MTHFR	phenobarbital; phenytoin	Toxicity	Epilepsy; Psychotic Disorders	false
+1444702822	3	rs1045642	ABCB1	phenobarbital	Efficacy	Epilepsy	false
+1183614578	4	rs17183814	SCN2A	antiepileptics; carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
+1183701234	3	HLA-B*51:01:01	HLA-B	phenobarbital	Toxicity	Stevens-Johnson Syndrome	false
+1448104015	3	rs2606345	CYP1A1	carbamazepine; phenobarbital; phenytoin; valproic acid	Efficacy	Epilepsy	false
