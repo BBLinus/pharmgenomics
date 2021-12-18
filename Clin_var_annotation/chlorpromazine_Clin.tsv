@@ -1,0 +1,4 @@
+PharmGKB ID	Level	Variant	Gene	Molecules	Phenotype Categories	Phenotype	Pediatric
+1183679775	3	rs762551	CYP1A2	antipsychotics; chlorpromazine; fluphenazine; thioridazine; trifluoperazine	Toxicity	Schizophrenia	false
+1448100389	3	rs1415744	EPM2A	chlorpromazine; clozapine; haloperidol; olanzapine; quetiapine; risperidone; trifluoperazine	Efficacy	Schizophrenia	false
+655388510	3	rs1799732	DRD2	antipsychotics; aripiprazole; bromperidol; chlorpromazine; clozapine; nemonapride; olanzapine; risperidone	Efficacy	Schizophrenia	false
