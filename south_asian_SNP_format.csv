@@ -1,4 +1,4 @@
-,ALL (n = 5008),SAS (n = 978),GIH (n = 206),PJL (n = 192),BEB (n = 172),STU (n = 204),ITU (n = 204)
+POLYMORPHISM,ALL (n = 5008),SAS (n = 978),GIH (n = 206),PJL (n = 192),BEB (n = 172),STU (n = 204),ITU (n = 204)
 CYP2D6*1 ,0,0,0,0,0,0,0
 CYP2D6*1XN ,0,0,0,0,0,0,0
 CYP2D6*2 ,1798,354,91,61,43,77,82

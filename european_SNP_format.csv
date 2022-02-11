@@ -1,4 +1,4 @@
-,ALL (n = 5008),EUR (n = 1006),CEU (n = 198),TSI (n = 214),FIN (n = 198),GBR (n = 182),IBS (n = 214)
+POLYMORPHISM,ALL (n = 5008),EUR (n = 1006),CEU (n = 198),TSI (n = 214),FIN (n = 198),GBR (n = 182),IBS (n = 214)
 CYP2D6*1,0,0,0,0,0,0,0
 CYP2D6*1xN,0,0,0,0,0,0,0
 CYP2D6*2,1798,345,64,80,64,56,81
