@@ -25,17 +25,17 @@ CYP2C9*29,4,0,0,0,0,0,0,0,0
 CYP2C9*31,2,2,0,2,0,0,0,0,0
 CYP2C9*33,1,0,0,0,0,0,0,0,0
 CYP2C9*45,1,0,0,0,0,0,0,0,0
-rs3812718 (SNP),2471,449,69,71,82,62,64,42,59
-"HLA-B*15:02 (Erlichster et al, 2019….cross...)",196,61,7,21,0,4,11,7,11
-"HLA-B*15:02 (CHB…de Bakker et al, 2006…high-resolution...)",46,30,6,4,4,5,2,1,8
-"HLA-B*40:01 (CEU…de Bakkar et al, 2006…high-resolution...)",171,9,1,15,1,1,0,0,6
-"HLA-B*40:01 (CHB…de Bakkar et al, 2006…high-resolution...)",750,196,25,24,53,22,17,20,35
-"HLA-B*40:01 (JPT…de Bakkar et al, 2006…high-resolution...)",549,113,12,15,47,16,7,6,10
-"HLA-B*40:01 (CHS…Pillai et al, 2014…predicting alleles...)",638,121,14,21,16,15,17,18,20
-"HLA-A*40:01 (MAS/INS…Pillai et al, 2014…predicting alleles...)",193,5,0,0,0,0,0,2,3
-"HLA-A*31:01 (CEU...de Bakkar et al, 2006…high-resolution...)",426,120,18,7,34,19,12,9,21
-"HLA-A*31:01 (CHB...de Bakkar et al, 2006…high-resolution...)",195,71,15,4,18,11,10,3,10
-"HLA-A*31:01 (JPT...de Bakkar et al, 2006…high-resolution...)",308,111,17,7,34,19,11,4,19
-"HLA-A:31:01 (CHS...Pillai et al, 2014…predicting alleles...)",92,4,0,0,0,0,0,3,1
-"HLA-A:31:01 (INS...Pillai et al, 2014…predicting alleles...)",64,7,0,0,0,0,1,4,2
-"HLA-B*15:11 (CHB......de Bakkar et al, 2006…high-resolution...)",783,211,42,26,40,32,25,19,27
+rs3812718,2471,449,69,71,82,62,64,42,59
+HLA-B*15:02(i),196,61,7,21,0,4,11,7,11
+HLA-B*15:02(ii_CHB),46,30,6,4,4,5,2,1,8
+HLA-B*40:01(ii_CEU),171,9,1,15,1,1,0,0,6
+HLA-B*40:01(ii_CHB)",750,196,25,24,53,22,17,20,35
+HLA-B*40:01(ii_JPT),549,113,12,15,47,16,7,6,10
+HLA-B*40:01(iii_CHS),638,121,14,21,16,15,17,18,20
+HLA-A*40:01(iii_MAS/INS),193,5,0,0,0,0,0,2,3
+HLA-A*31:01(ii_CEU),426,120,18,7,34,19,12,9,21
+HLA-A*31:01(ii_CHB),195,71,15,4,18,11,10,3,10
+HLA-A*31:01(ii_JPT),308,111,17,7,34,19,11,4,19
+HLA-A*31:01(iii_CHS),92,4,0,0,0,0,0,3,1
+HLA-A*31:01(iii_INS),64,7,0,0,0,0,1,4,2
+HLA-B*15:11(ii_CHB),783,211,42,26,40,32,25,19,27
