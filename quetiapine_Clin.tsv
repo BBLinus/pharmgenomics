@@ -1,0 +1,23 @@
+PharmGKB ID	Level	Variant	Gene	Drugs	Phenotype Categories	Phenotype	Pediatric
+1447943693	3	rs6280	DRD3	quetiapine	Metabolism/PK		false
+1183693485	3	rs1049353	CNR1	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Autism Spectrum Disorder; Psychotic Disorders; Schizophrenia	true
+1444703453	3	rs7912580		olanzapine; quetiapine; risperidone; ziprasidone	Efficacy	Schizophrenia	false
+1449005372	3	rs3888190	SH2B1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Toxicity	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1451723589	3	CYP3A4*1; CYP3A4*3	CYP3A4	quetiapine	Metabolism/PK		false
+1448423763	3	rs5993883	COMT	quetiapine	Efficacy	Schizophrenia	false
+1448423795	3	rs4818	COMT	quetiapine	Efficacy	Schizophrenia	false
+1451398340	3	rs17782313	MC4R	quetiapine	Toxicity	Weight gain	false
+1183614891	3	rs10042486	HTR1A	amisulpride; antipsychotics; olanzapine; quetiapine; risperidone	Efficacy	Schizophrenia	false
+1451398314	3	rs489693	MC4R	quetiapine	Toxicity	Hypertriglyceridemia; schizoaffective disorder; Schizophrenia; Weight gain	true
+1183629475	3	rs1806201	GRIN2B	quetiapine	Toxicity	Drug Toxicity	false
+655384607	3	rs951439	RGS4	antipsychotics; olanzapine; perphenazine; quetiapine; ziprasidone	Efficacy	Schizophrenia	false
+1444703529	3	rs2412459	EIF2AK4	olanzapine; quetiapine; risperidone; ziprasidone	Efficacy	Schizophrenia	false
+1448100389	3	rs1415744	EPM2A	chlorpromazine; clozapine; haloperidol; olanzapine; quetiapine; risperidone; trifluoperazine	Efficacy	Schizophrenia	false
+1450815148	3	rs2164660	PDE4D	quetiapine	Efficacy	Schizophrenia	false
+1043880750	3	rs324420	FAAH	aripiprazole; clozapine; haloperidol; olanzapine; quetiapine; risperidone	Toxicity	Psychotic Disorders	true
+1451147720	1A	CYP3A4*1; CYP3A4*20; CYP3A4*22	CYP3A4	quetiapine	Metabolism/PK		false
+1449005382	3	rs1000940	RABEP1	amisulpride; aripiprazole; clozapine; lithium; mirtazapine; olanzapine; paliperidone; quetiapine; risperidone; valproic acid	Other	Bipolar Disorder; Depressive Disorder; Psychotic Disorders; schizoaffective disorder	false
+1448423788	3	rs6269	COMT	quetiapine	Efficacy	Schizophrenia	false
+1450815136	3	rs17382202	PDE4D	quetiapine	Efficacy	Schizophrenia	false
+1444700896	3	rs776746	CYP3A5	quetiapine	Metabolism/PK		false
+1450815142	3	rs17742120	MIR582; PDE4D	quetiapine	Efficacy	Schizophrenia	false
